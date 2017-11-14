@@ -1,0 +1,25 @@
+html {
+ background: url(http://www.doggifpage.com/gifs/114.gif);
+ background-position: center;
+ background-size: 500px;
+ }
+h1 {
+  color: red;
+  font-size: 100px;
+  text-align: center;
+}
+h2{
+  color: #8F0425;
+  font-size: 50px;
+  text-align: left;
+}
+li {
+  color: #181761;
+  font-size: 30px;
+  font-weight: bold;
+}
+p{
+  font-size: 25px;
+  color: #181761;
+  
+}
